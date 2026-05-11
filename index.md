@@ -1,5 +1,5 @@
 ---
-title: Jupyter Book 2 Workshop Template
+title: An Introduction to Undergraduate Climate Physics 
 site:
   hide_outline: true
   hide_toc: true
@@ -9,19 +9,20 @@ no-update-date: true
 ---
 
 
-<div style="text-align: center">
+<div style="text-align: center", font-size: 10em>
 
-# Jupyter Book 2 Workshop Template
+# An Introduction to Undergraduate Climate Physics 
 
 </div>
 
-```{figure} content/figures/logo.svg
+```{figure} content/figures/logo.png
 :width: 80%
 :align: center
 ```
-
-_A GitHub Template repository designed for use in Jupyter Book 2 and MyST workshops._
+<div style="text-align: center", font-size: 1.2em>
+ A course guide for Phyics and Climate Science students
+</div>
 
 <div style="text-align: center", font-size: 1.2em>
-Freek Pols, Luuk Fröling, Robert Lanzafame, Kirstie Whitaker, Jim Madge
+Dr Tim Trent
 </div>

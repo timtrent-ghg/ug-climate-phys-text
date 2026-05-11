@@ -15,6 +15,7 @@ aside.admonition-experiment {
 /* Title */
 aside.admonition-experiment > div:first-child {
   background-color: rgb(251, 183, 183);  /* Change header background color */
+  /*background-color: #FFF9E6 !important; */
 }
 
 /* Icon */
